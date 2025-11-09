@@ -86,6 +86,20 @@ To ensure the models' generalizability and avoid overfitting, a separate, unseen
 
 Both models performed impressively, indicating a robust preprocessing pipeline and feature selection process.
 
+## Logistic Regression Testing/Validation Data:
+<img width="619" height="694" alt="image" src="https://github.com/user-attachments/assets/ded2f92e-aeb5-42e5-918b-a525d29861c6" />
+
+## Logistic Regression Unseen Testing Data:
+<img width="606" height="691" alt="image" src="https://github.com/user-attachments/assets/e55142f6-dee7-4cf0-8a8c-847a4f4b276a" />
+
+## Decision Tree Testing/Validation Data:
+<img width="615" height="701" alt="image" src="https://github.com/user-attachments/assets/5d707584-0f16-4f63-b84f-e060f2607916" />
+
+
+## Decision Tree Unseen Testing Data:
+<img width="604" height="693" alt="image" src="https://github.com/user-attachments/assets/d1e89b06-6646-4e7e-bbe3-af4d9b2110d1" />
+
+
 ## 🏃‍♂️ How to Run
 1.  📥 Clone the repository.
 2.  🔧 Ensure the required libraries are installed (`pip install -r requirements.txt`).
